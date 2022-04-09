@@ -1,6 +1,6 @@
 # logrlint
 
-ling for [logr](https://github.com/go-logr/logr) interface
+lint for [logr](https://github.com/go-logr/logr) interface
 
 ## Install
 
